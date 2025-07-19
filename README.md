@@ -2,10 +2,6 @@
 
 Implementation and analysis of computational intelligence methodologies across neural networks, fuzzy logic systems, and genetic algorithms, featuring 9 complete projects with systematic evaluation.
 
-## Abstract
-
-This repository presents a comprehensive study of computational intelligence techniques through practical implementations spanning evolutionary computation, fuzzy inference systems, and deep learning architectures. The work demonstrates both theoretical understanding and empirical evaluation across diverse problem domains including optimization, classification, and decision-making systems.
-
 ## Repository Structure
 
 ### 1. Genetic Algorithm
@@ -33,8 +29,6 @@ This repository presents a comprehensive study of computational intelligence tec
 5. **CNN Architecture Comparison** - Advanced convolutional networks with regularization
 
 ## Methodology & Technologies
-
-This repository implements computational intelligence techniques using systematic approaches with empirical evaluation:
 
 - **Neural Networks**: From-scratch implementations (NumPy) and framework-based solutions (TensorFlow/Keras)
 - **Fuzzy Logic**: scikit-fuzzy implementations with interactive decision interfaces
